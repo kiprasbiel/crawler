@@ -2,7 +2,12 @@
     "name": "kipras/kantar",
     "autoload": {
         "psr-4": {
-            "Crawler\\": "src/"
-        }
-    }
+            "Crawler\\": "src/",
+            "Controllers\\": "controllers/",
+            "Models\\": "models/"
+        },
+        "files": [
+        ]
+    },
+    "description": "15min.lt article scraper"
 }
