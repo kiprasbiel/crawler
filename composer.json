@@ -14,5 +14,8 @@
     "require-dev": {
         "mp091689/dump-die": "^1.0"
     },
-    "description": "15min.lt article scraper"
+    "description": "15min.lt article scraper",
+  "require": {
+    "ext-pdo": "*"
+  }
 }
