@@ -1,8 +1,5 @@
 {
     "name": "kipras/kantar",
-    "require": {
-        "php": "8.0.2"
-    },
     "autoload": {
         "psr-4": {
             "Crawler\\": "src/"
