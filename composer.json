@@ -7,6 +7,7 @@
             "Models\\": "models/"
         },
         "files": [
+            "inc/parser/simple_html_dom.php",
             "config/config.php"
         ]
     },
