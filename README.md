@@ -3,7 +3,7 @@
 ### Informacija:
 
 Scraper'iui nurodžius 15min. portalo straipsnio URL adresą, programa surenka
-visą reikiamą informaciją iš nurodyto straipsnio. Tą patį atlieka ir kitais,
+visą reikiamą informaciją iš nurodyto straipsnio. Tą patį atlieka ir su kitais,
 nurodytame straipsnyje rastais, straipsniais. Apdorojus informaciją, straipsniai 
 patalpinami duomenų bazėje. 
 
@@ -37,7 +37,7 @@ Norint sustabdyti programą, root aplanke reikia paleisti komandą `docker-compo
 
 ####Paleidžiant be Docker
 
-Paleidžiant programą kitais metodais, greičiausiai reikės kitu būdų importuoti
+Paleidžiant programą kitais metodais, greičiausiai reikės kitu būdu importuoti
 `docker/mysql/docker-entrypoint-initdb.d/migration.sql` migracijos failą, kuriame nurodyta
 `articles` lentelės struktūra.
 
