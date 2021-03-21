@@ -7,6 +7,7 @@
             "Models\\": "models/"
         },
         "files": [
+            "config/config.php"
         ]
     },
     "description": "15min.lt article scraper"
