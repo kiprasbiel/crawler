@@ -35,7 +35,7 @@ aplanke paleidus komandą `docker-compose up -d`.
 
 Norint sustabdyti programą, root aplanke reikia paleisti komandą `docker-compose down -v`.
 
-####Paleidžiant be Docker
+#### Paleidžiant be Docker
 
 Paleidžiant programą kitais metodais, greičiausiai reikės kitu būdu importuoti
 `docker/mysql/docker-entrypoint-initdb.d/migration.sql` migracijos failą, kuriame nurodyta
